@@ -336,13 +336,16 @@ a {
                 display: none;
             }
 
-            .icon-search {
-                position: absolute;
-                left: 230px;
-                top: 20px;
-                font-size: 20px;
-                color: #FFF;
+            .input {
+                .icon-search {
+                    position: absolute;
+                    left: 205px;
+                    top: 22px;
+                    font-size: 20px;
+                    color: #FFF;
+                }
             }
+
 
             .icon-mobile {
                 color: white;

@@ -275,10 +275,10 @@ a {
   .main-header .row .right-side {
     display: none;
   }
-  .main-header .row .icon-search {
+  .main-header .row .input .icon-search {
     position: absolute;
-    left: 230px;
-    top: 20px;
+    left: 205px;
+    top: 22px;
     font-size: 20px;
     color: #FFF;
   }
